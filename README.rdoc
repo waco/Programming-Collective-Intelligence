@@ -1,0 +1,18 @@
+=ProgrammingCollectiveIntelligence
+rubyで勉強中
+
+==Memo
+===2.10 エクササイズ
+「3.ユーザーベースの効率化」は、
+transform_prefsでitemとpersonを入れ替えたのを
+calcurate_similar_itemsでリスト化すればいい。
+あとは、get_recommendations内のprefsループ内で、
+評価の部分をあらかじめ計算したものを使うように書き換える。
+
+実際のデータを使うものは何だかめんどくさい・・・
+
+==Todo
+3章
+
+Copyright (c) 2010 waco, released under the MIT license
+
